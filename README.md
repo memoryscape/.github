@@ -1,4 +1,4 @@
-# MemoryScape - Navigating Emotions Through Time. Your Memories, Your Story.
+# MemoryScape - Your Memories, Your Story.
 
 ## Overview:
 MemoryScape is a transformative app designed to empower individuals, especially those with memory loss, by creating a personal journey through their memories. Our focus is on providing a seamless and intuitive experience, fostering emotional connections with real-world moments. MemoryScape is not just an app; it's a tool for rediscovery and emotional well-being.
